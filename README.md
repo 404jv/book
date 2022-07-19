@@ -16,3 +16,9 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 7. ✅ Como fazer amigos e influenciar pessoas - Dale Carnegie
 8. ✅ Mais Esperto que o Diabo - Napoleon Hill
 9. 🟡 O Poder do Hábito - Charles Duhigg
+
+## 🪄 Wishlist
+- O Mais importante para o investido - Howard Marks
+- O Homem Mais Rico da Babilônia - George S. Clason
+- Código Limpo - Robert Cecil Martin
+- Arquitetura Limpa - Robert Cecil Martin
