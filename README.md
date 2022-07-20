@@ -1,5 +1,5 @@
 # 📖 Livros lidos
-Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos os melhores que mudaram minha vida ou apenas foram lidos mesmo. Além disso, a lista está em ordem de leitura, vou tentar coloca algum "review" pessoal dos melhores para me lembrar de o que ensina nele e se vale uma relida em algum momento.
+Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos os melhores que mudaram minha vida ou apenas foram lidos mesmo. Além disso, a lista está em ordem de leitura, vou tentar coloca algum "review" pessoal em alguns para me lembrar do que é ensinado neles e se vale uma relida em algum momento.
 
 ## 🛠️ Legenda
 - ✅ Lido por completo
