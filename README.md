@@ -5,6 +5,7 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 - ✅ Lido por completo
 - 🟡 Lendo atualmente
 - 🔴 Leitura incompleta
+- 🔵 Vou começar a ler
 
 ## 📜 Lista
 1. ✅ Uma Breve História do Tempo - Stephen Hawking
