@@ -17,8 +17,8 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 7. 🟢 Como fazer amigos e influenciar pessoas - Dale Carnegie
 8. 🟢 Mais Esperto que o Diabo - Napoleon Hill
 9. 🟢 O Poder do Hábito - Charles Duhigg
-10. 🔵 A marca da vitória - Knight, Phil
-11. 🔵 A coragem de não agradar - Kishimi, Ichiro
+10. 🟡 A coragem de não agradar - Kishimi, Ichiro
+11. 🔵 A marca da vitória - Knight, Phil 
 
 ## 🪄 Wishlist
 - O Mais importante para o investido - Howard Marks
