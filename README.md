@@ -18,7 +18,7 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 8. 🟢 Mais Esperto que o Diabo - Napoleon Hill
 9. 🟢 O Poder do Hábito - Charles Duhigg
 10. 🟢 A coragem de não agradar - Ichiro Kishimi, Fumitake Koga
-11. 🔵 A marca da vitória - Knight, Phil 
+11. 🟡 A marca da vitória - Knight, Phil 
 
 ## 🪄 Wishlist
 - O Mais importante para o investido - Howard Marks
