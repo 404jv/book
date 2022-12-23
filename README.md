@@ -30,8 +30,8 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
   📆 15/09/2022 - 08/10/2022
 11. 🟢 A marca da vitória - Knight, Phil <br/>
   📆 09/10/2022 - 01/11/2022
-13. 🟡 O Homem Mais Rico da Babilônia - George S. Clason <br/>
-  📆 16/11/2022 - ?
+13. 🟢 O Homem Mais Rico da Babilônia - George S. Clason <br/>
+  📆 16/11/2022 - 09/12/2022
 12. 🔵 Ética a Nicômaco - Aristóteles <br/>
   📆 ? - ?
 
