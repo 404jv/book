@@ -35,6 +35,7 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 12. 🟢 Como falar em público usando PNL - Diego Mangabeira <br/>
   📆 22/03/2023 - 23/03/2023
 13. 🟡 Como se tornar inesquecível - Dale Carnegie <br/>
+  📆 24/03/2023 - ??
 
 ## 🌟 Wishlist
 - O Mais importante para o investido - Howard Marks
