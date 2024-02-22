@@ -38,7 +38,7 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
   📆 24/03/2023 - ??
 14. 🟢 Pais brilhantes, professores fascinantes - Augusto Cury <br/>
   📆 29/04/2023 - 22/02/2024
-15. 🟡 A Arte de Viver - Epicteto 
+15. 🟡 A Arte de Viver - Epicteto <br/>
   📆 21/12/2023 - ??
 
 ## 🌟 Wishlist
