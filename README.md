@@ -34,8 +34,12 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
   📆 16/11/2022 - 09/12/2022
 12. 🟢 Como falar em público usando PNL - Diego Mangabeira <br/>
   📆 22/03/2023 - 23/03/2023
-13. 🟡 Como se tornar inesquecível - Dale Carnegie <br/>
+13. 🟢 Como se tornar inesquecível - Dale Carnegie <br/>
   📆 24/03/2023 - ??
+14. 🟢 Pais brilhantes, professores fascinantes - Augusto Cury <br/>
+  📆 29/04/2023 - 22/02/2024
+15. 🟡 A Arte de Viver - Epicteto 
+  📆 21/12/2023 - ??
 
 ## 🌟 Wishlist
 - O Mais importante para o investido - Howard Marks
