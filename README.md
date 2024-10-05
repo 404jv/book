@@ -9,15 +9,15 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 
 ## 📜 Lista
 1. 🟢 Uma Breve História do Tempo - Stephen Hawking <br/>
-  📆 2020 - 2020 
+  📆 2020
 2. 🟢 Cosmos - Carl Sagan <br/>
-  📆 2020 - 2020 
+  📆 2020
 3. 🟢 Nada Easy - Tallis Gomes <br/>
-  📆 2020 - 2020 
+  📆 2020
 4. 🟢 Apologia de Sócrates - Platão <br/>
-  📆 2021 - 2021 
+  📆 2021
 5. 🟢 Os segredos da mente milionária - T. Harv Eker <br/>
-  📆 2021 - 2021
+  📆 2021
 6. 🟢 Pai Rico, Pai Pobre - Robert Kiyosaki <br/>
   📆 14/12/2021 - 2022 
 7. 🟢 Como fazer amigos e influenciar pessoas - Dale Carnegie <br/>
@@ -38,8 +38,8 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
   📆 24/03/2023 - ??
 14. 🟢 Pais brilhantes, professores fascinantes - Augusto Cury <br/>
   📆 29/04/2023 - 22/02/2024
-15. 🟡 A Arte de Viver - Epicteto <br/>
-  📆 21/12/2023 - ??
+15. 🟢 Essencialismo: A disciplinada busca por menos <br/>
+  📆 2024
 
 ## 🌟 Wishlist
 - O Mais importante para o investido - Howard Marks
