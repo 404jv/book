@@ -45,3 +45,4 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 - O Mais importante para o investido - Howard Marks
 - Código Limpo - Robert Cecil Martin
 - Arquitetura Limpa - Robert Cecil Martin
+- Outlive: A arte e a ciência de viver mais e melhor - Peter Attia
