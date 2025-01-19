@@ -35,12 +35,12 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
 12. 🟢 Como falar em público usando PNL - Diego Mangabeira <br/>
   📆 22/03/2023 - 23/03/2023
 13. 🟢 Como se tornar inesquecível - Dale Carnegie <br/>
-  📆 24/03/2023 - ??
-14. 🟢 Pais brilhantes, professores fascinantes - Augusto Cury <br/>
-  📆 29/04/2023 - 22/02/2024
-15. 🟢 Essencialismo: A disciplinada busca por menos - Greg McKeown <br/>
+  📆 2023
+15. 🟢 Pais brilhantes, professores fascinantes - Augusto Cury <br/>
   📆 2024
-16. 🟢 As armas da persuasão: Como influenciar e não se deixar influenciar - Robert B. Cialdini <br/>
+16. 🟢 Essencialismo: A disciplinada busca por menos - Greg McKeown <br/>
+  📆 2024
+17. 🟢 As armas da persuasão: Como influenciar e não se deixar influenciar - Robert B. Cialdini <br/>
   📆 2025
 
 ## 🌟 Wishlist
