@@ -42,9 +42,16 @@ Quero documentar os livros que estou lendo ou já li. Assim, consigo saber todos
   📆 2024
 17. 🟢 As armas da persuasão: Como influenciar e não se deixar influenciar - Robert B. Cialdini <br/>
   📆 2025
+18. 🟡 O Programador Pragmático: De Aprendiz a Mestre
 
 ## 🌟 Wishlist
 - O Mais importante para o investido - Howard Marks
 - Código Limpo - Robert Cecil Martin
 - Arquitetura Limpa - Robert Cecil Martin
 - Outlive: A arte e a ciência de viver mais e melhor - Peter Attia
+
+## Tipos
+1. Educação em geral (As armas da persuasão)
+2. Técnico (Programador Pragmático)
+3. Investimentos
+4. Ficção
